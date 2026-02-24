@@ -1,0 +1,34 @@
+{
+  "devices": [
+    {
+      "id": "71001755",
+      "name": "Redmi Note 14 256GB",
+      "brand": "XIOMI",
+      "imageUrl": "https://www.telcel.com/medias/300Wx300H-XiaomiRedmiNote14NegroFrontal?context=bWFzdGVyfGltYWdlc3wyMzUyMXxpbWFnZS9qcGVnfGltYWdlcy9oMjIvaGQ2LzkzODUwMjc2MDA0MTQuanBnfGM4YTI3MTA5NDExZTc1ZmJiNTRiMzJjZWJhZjVmOWZlM2I5NmI3N2QwMjUxZmQ2NDY3MDUxNmUxN2VhMjM1NmE",
+      "price": "2839.0",
+      "maxPrice": "5999.0",
+      "model": "24117RN76L",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/xiaomi-redmi-note-14-negro-256gb/71001755"
+    },
+    {
+      "id": "71003003",
+      "name": "Galaxy A17",
+      "brand": "SAMSUNG",
+      "imageUrl": "https://www.telcel.com/medias/300Wx300H-SamsungGalaxyA175GNegroFrontal.jpeg?context=bWFzdGVyfGltYWdlc3wyNzQ4NHxpbWFnZS9qcGVnfGltYWdlcy9oZGYvaDM4LzkzODMxMDE0MzE4MzguanBnfDI5OTlhYjQ0M2U1NDliYTdiMTZmOTQ4NGY0ZGU0ZTIzMTg5NmY4MTU5ZTI0MTkwZjFlODg0NDkxYTA3NDQxNzg",
+      "price": "2599.0",
+      "maxPrice": "3999.0",
+      "model": "SM-A175F",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/samsung-galaxy-a17-negro-128gb/71003003"
+    },
+    {
+      "id": "70020425",
+      "name": "iPhone 14 128GB",
+      "brand": "APPLE",
+      "imageUrl": "https://www.telcel.com/medias/300Wx300H-SamsungGalaxyA175GNegroFrontal.jpeg?context=bWFzdGVyfGltYWdlc3wyNzQ4NHxpbWFnZS9qcGVnfGltYWdlcy9oZGYvaDM4LzkzODMxMDE0MzE4MzguanBnfDI5OTlhYjQ0M2U1NDliYTdiMTZmOTQ4NGY0ZGU0ZTIzMTg5NmY4MTU5ZTI0MTkwZjFlODg0NDkxYTA3NDQxNzg",
+      "price": "11499.0",
+      "maxPrice": "14999.0",
+      "model": "S14 128",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/apple-iphone-14-midnight-128gb/70020425"
+    }
+  ]
+}
