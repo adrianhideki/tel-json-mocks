@@ -1,33 +1,103 @@
 {
   "devices": [
     {
-      "id": "71001755",
-      "name": "Redmi Note 14 256GB",
-      "brand": "XIOMI",
-      "imageUrl": "https://www.telcel.com/medias/300Wx300H-XiaomiRedmiNote14NegroFrontal?context=bWFzdGVyfGltYWdlc3wyMzUyMXxpbWFnZS9qcGVnfGltYWdlcy9oMjIvaGQ2LzkzODUwMjc2MDA0MTQuanBnfGM4YTI3MTA5NDExZTc1ZmJiNTRiMzJjZWJhZjVmOWZlM2I5NmI3N2QwMjUxZmQ2NDY3MDUxNmUxN2VhMjM1NmE",
-      "price": "2839.0",
-      "maxPrice": "5999.0",
-      "model": "24117RN76L",
-      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/xiaomi-redmi-note-14-negro-256gb/71001755"
+      "id": "71003785",
+      "name": "Galaxy S26 Ultra",
+      "brand": "SAMSUNG",
+      "imageUrl": "https://www.telcel.com/medias/96Wx96H-SamsungGalaxyS26UltraAzulFrontal.jpeg?context=bWFzdGVyfGltYWdlc3wxOTI5NnxpbWFnZS9qcGVnfGltYWdlcy9oNDQvaDY1Lzk0MDU3NzUwODU1OTguanBnfDIyZGQzZjRmMjczODUwYjhkMmIwODA5NjkyZDVlNzEzMTJjYTgwZGI3NTUzZGVlYWRjMDhiMjA5ODA5YTIwNDA",
+      "price": "32999.0",
+      "maxPrice": "37999.0",
+      "model": "SM-S948B",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/samsung-galaxy-s26-ultra-azul-512gb/71003785"
     },
     {
-      "id": "71003003",
-      "name": "Galaxy A17",
+      "id": "71001692",
+      "name": "Redmi Note 14 Pro 5G",
+      "brand": "XIAOMI",
+      "imageUrl": "https://www.telcel.com/medias/96Wx96H-BundleRedmiNote14Pro5GVerde-RedmiBuds6.jpeg?context=bWFzdGVyfGltYWdlc3wxOTA0OXxpbWFnZS9qcGVnfGltYWdlcy9oNzAvaDMxLzk0MDU0NDAyNjIxNzQuanBnfGVlYTQ2ZWEzZTAxMzBmODJlZmMyMzM5NDJhOWI0NjhkOGVhN2Y5NWQyNTBkYWRiNWEwMWRjNGEyZTI4Y2MxZDg",
+      "price": "7429.0",
+      "maxPrice": "9999.0",
+      "model": "24090RA29G",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/xiaomi-redmi-note-14-pro-5g-verde-256gb/71001692"
+    },
+    {
+      "id": "71001964",
+      "name": "Galaxy A56 5G",
       "brand": "SAMSUNG",
-      "imageUrl": "https://www.telcel.com/medias/300Wx300H-SamsungGalaxyA175GNegroFrontal.jpeg?context=bWFzdGVyfGltYWdlc3wyNzQ4NHxpbWFnZS9qcGVnfGltYWdlcy9oZGYvaDM4LzkzODMxMDE0MzE4MzguanBnfDI5OTlhYjQ0M2U1NDliYTdiMTZmOTQ4NGY0ZGU0ZTIzMTg5NmY4MTU5ZTI0MTkwZjFlODg0NDkxYTA3NDQxNzg",
-      "price": "2599.0",
-      "maxPrice": "3999.0",
-      "model": "SM-A175F",
-      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/samsung-galaxy-a17-negro-128gb/71003003"
+      "imageUrl": "https://www.telcel.com/medias/96Wx96H-SamsungA565GrafitoFrontal.jpeg?context=bWFzdGVyfGltYWdlc3wxNjY5NnxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaDg0Lzk0MDU0ODYyNjg0NDYuanBnfGUxNzQwNjdjNWRiYWIzYjgyYWIzMzBmY2QyNjM1YmUyYzYzZmEwNjI3OTUzNTZhMmEzNmI0MWU0NzZmNWE0OGM",
+      "price": "8499.0",
+      "maxPrice": "10999.0",
+      "model": "SM-A566E",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/samsung-galaxy-a56-5g-negro-256gb/71001964"
+    },
+    {
+      "id": "71002606",
+      "name": "iPhone 17",
+      "brand": "APPLE",
+      "imageUrl": "https://www.telcel.com/medias/96Wx96H-iPhone-17-Sage-PDP-Image-Position-2-MXES.jpeg?context=bWFzdGVyfGltYWdlc3wxNjUyNnxpbWFnZS9qcGVnfGltYWdlcy9oODUvaGJhLzk0MDU2MDM0NDY4MTQuanBnfGUzYjQ1MWU0NjFmMzRiZDcwYzM2NDU0MDA2NmM4MTkwMDIxMDc3MjNlNDY1ODU2YjczZjU4YWIyYmMzYTcwODk",
+      "price": "1538.38",
+      "maxPrice": "5999.0",
+      "model": "17 256",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/apple-iphone-17-salvia-256gb/71002606"
+    },
+    {
+      "id": "71003783",
+      "name": "Galaxy S26+",
+      "brand": "SAMSUNG",
+      "imageUrl": "https://www.telcel.com/medias/96Wx96H-SamsungGalaxyS26-VioletaFrontal.jpeg?context=bWFzdGVyfGltYWdlc3w1OTgwfGltYWdlL2pwZWd8aW1hZ2VzL2g1NC9oYjEvOTQwNTczODYxNDgxNC5qcGd8OGMwZWUyZGI4NzFhYjdhMTJkYjkyM2NiMDUwOWQwNDUzYzc5YmJkOWNhZjc0ODEwYmMwZTVlMTc5ZjNkNzYzNQ",
+      "price": "2192.23",
+      "maxPrice": "5999.0",
+      "model": "SM-S947B",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/samsung-galaxy-s26plus-violeta-512gb/71003783"
+    },
+    {
+      "id": "71001683",
+      "name": "Moto g15",
+      "brand": "MOTOROLA",
+      "imageUrl": "https://www.telcel.com/medias/96Wx96H-MotoG15-Gris-Frontside.jpeg?context=bWFzdGVyfGltYWdlc3wyMzE0OHxpbWFnZS9qcGVnfGltYWdlcy9oYTAvaDMxLzk0MDU0NDM1NzE3NDIuanBnfDAxMmQ3NjliMWE4NDAyYzJkZWU3NzEyMDlkNTJmNjRlMTliMjZlMGU0ZmIxOTY4OTFkYjM5ZmQxMWVjODgwYjM",
+      "price": "230.69",
+      "maxPrice": "5999.0",
+      "model": "XT2521-2",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/motorola-moto-g15-gris-256gb/71001683"
+    },
+    {
+      "id": "71003318",
+      "name": "Galaxy A07",
+      "brand": "SAMSUNG",
+      "imageUrl": "https://www.telcel.com/medias/96Wx96H-SamsungGalaxyA07LTENegroFrontal.jpeg?context=bWFzdGVyfGltYWdlc3wxODI2NXxpbWFnZS9qcGVnfGltYWdlcy9oNTcvaGI2Lzk0MDU2MjE1MzQ3NTAuanBnfDQ2MDNhNjNjZjhhMWM5OTdjYmJkOTdkOGNkYTg5ZDRhMjU2MzM4MjZlZmU3NmFmZTI3ZWVjNWEzM2I1MTc1NGM",
+      "price": "153.77",
+      "maxPrice": "5999.0",
+      "model": "SM-A075M",
+      "url": "https://www.telcel.com/tienda/produto/telefonos-y-smartphones/samsung-galaxy-a07-negro-64gb/71003318"
+    },
+    {
+      "id": "71002636",
+      "name": "iPhone 17 Pro Max",
+      "brand": "APPLE",
+      "imageUrl": "https://www.telcel.com/medias/96Wx96H-iPhone-17-Pro-Max-Deep-Blue-PDP-Image-Position-2-MXES.jpeg?context=bWFzdGVyfGltYWdlc3wxODA5MXxpbWFnZS9qcGVnfGltYWdlcy9oNjkvaGNjLzk0MDU2MTAxMzE0ODYuanBnfGQ4YWEyMWIyMGZiYzk4OTQ3MGE0YzQ5ZWE1N2UzNTAwMjU1NWUzMjI1YjAzYTdhMGEwNTZlZDQ0Yjg1OTI3OWQ",
+      "price": "2384.54",
+      "maxPrice": "5999.0",
+      "model": "17 PM256",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/apple-iphone-17-pro-max-azul-256gb/71002636"
+    },
+    {
+      "id": "71000423",
+      "name": "moto g55 5G",
+      "brand": "MOTOROLA",
+      "imageUrl": "https://www.telcel.com/medias/96Wx96H-MotoG55-5GNegroFrontal.jpeg?context=bWFzdGVyfGltYWdlc3wyMjk1NHxpbWFnZS9qcGVnfGltYWdlcy9oMzAvaDkyLzkwNTEzNjUzMTA0OTQuanBnfDdmYjAxMTUzYjFkMGUzNjkxYTBiNGJiYTgzOTBlYzYxZDhiMWIwZDhlYWYwYzFlNzcyZjRkNDhhNDY4NjRhMWU",
+      "price": "323.0",
+      "maxPrice": "5999.0",
+      "model": "XT2435-1",
+      "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/motorola-moto-g55-5g-negro-256gb/71000423"
     },
     {
       "id": "70020425",
       "name": "iPhone 14 128GB",
       "brand": "APPLE",
-      "imageUrl": "https://www.telcel.com/medias/300Wx300H-SamsungGalaxyA175GNegroFrontal.jpeg?context=bWFzdGVyfGltYWdlc3wyNzQ4NHxpbWFnZS9qcGVnfGltYWdlcy9oZGYvaDM4LzkzODMxMDE0MzE4MzguanBnfDI5OTlhYjQ0M2U1NDliYTdiMTZmOTQ4NGY0ZGU0ZTIzMTg5NmY4MTU5ZTI0MTkwZjFlODg0NDkxYTA3NDQxNzg",
-      "price": "11499.0",
-      "maxPrice": "14999.0",
-      "model": "S14 128",
+      "imageUrl": "https://www.telcel.com/medias/96Wx96H-APPLEiPHONE14PLUSMIDNIGHT.jpeg?context=bWFzdGVyfGltYWdlc3w3MjYzfGltYWdlL2pwZWd8aW1hZ2VzL2gwYi9oMzYvOTQwNDgyMzE0MjQzMC5qcGd8YjI3NTZmNWM5YWU0ODFkOGUzOGVkNWMxZGJhOGY5ZTZlYTlmZTEzOTUyZmNmNDJiMjM4YjdiZTVkMGI4MzhmZQ",
+      "price": "884.54",
+      "maxPrice": "5999.0",
+      "model": "14 128",
       "url": "https://www.telcel.com/tienda/producto/telefonos-y-smartphones/apple-iphone-14-midnight-128gb/70020425"
     }
   ]
