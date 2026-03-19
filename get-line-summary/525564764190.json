@@ -1,0 +1,68 @@
+{
+  "type": "prepaidGF",
+  "invoice": {
+    "value": null,
+    "dueDate": null
+  },
+  "balance": {
+    "default": 55.01,
+    "dueDate": "2026-05-13T06:00:00.000Z",
+    "mix": 0,
+    "mixDueDate": "2026-05-13T06:00:00.000Z",
+    "gift": 250,
+    "data": 499,
+    "rollover": 0,
+    "cashback": null
+  },
+  "plan": {
+    "id": "PA50",
+    "name": "Paquete Amigo Sin Limite 50",
+    "price": 50,
+    "createdAt": "2026-03-13T18:57:14.000Z",
+    "startDate": "2026-03-13T15:57:14.000Z",
+    "endDate": "2026-03-21T02:59:59.000Z",
+    "totalData": 999999999,
+    "availableData": 999999999,
+    "usedData": 424,
+    "freeNumbers": 5,
+    "unlimited": {
+      "facebook": null,
+      "x": true,
+      "snapchat": null,
+      "whatsapp": true,
+      "instagram": null,
+      "uber": null,
+      "calls": null,
+      "sms": null,
+      "messenger": null,
+      "data": true
+    },
+    "additionalPackages": [
+      {
+        "id": "INT50R",
+        "name": "Paquete Internet Amigo 50 Recurrente",
+        "totalData": 614400,
+        "usedData": 168370,
+        "availableData": 446030,
+        "startDate": "2026-03-13T15:57:57.000Z",
+        "endDate": "2026-03-20T15:57:56.000Z",
+        "unlimited": false
+      }
+    ],
+    "promotionalPackages": null,
+    "includedServices": [
+      "OPSF promocion nivel 1",
+      "Bandera Youtube Prepago",
+      "4G Offer",
+      "Chip 79",
+      "5 NUMEROS GRATIS 9 FRECUENTES OPSF(PREPAGO VOZ Y SMS)",
+      "RBT",
+      "VOLTE Offer"
+    ],
+    "borderlessServices": {
+      "sms": null,
+      "data": null,
+      "voice": null
+    }
+  }
+}
