@@ -1,80 +1,88 @@
 {
-  "type": "mixGF",
-  "invoice": {
-    "value": 361.55,
-    "dueDate": "2026-03-20T06:00:00.000Z"
-  },
-  "balance": {
-    "default": 20,
-    "dueDate": "2026-03-29T06:00:00.000Z",
-    "mix": 0,
-    "mixDueDate": "2026-03-29T06:00:00.000Z",
-    "gift": 0,
-    "data": 500,
-    "rollover": 0,
-    "cashback": 12.45
-  },
-  "plan": {
-    "id": "2000782",
-    "name": "TELCEL LIBRE CONTROLADO 1",
-    "price": 299,
-    "createdAt": "2025-05-21T08:10:39.000Z",
-    "startDate": "2026-02-28T03:00:00.000Z",
-    "endDate": "2026-03-28T02:59:59.000Z",
-    "totalData": 4194304,
-    "availableData": 1262051,
-    "usedData": 2932253,
-    "freeNumbers": null,
-    "unlimited": {
-      "facebook": null,
-      "x": true,
-      "snapchat": true,
-      "whatsapp": true,
-      "instagram": true,
-      "uber": true,
-      "calls": null,
-      "sms": null,
-      "messenger": null,
-      "data": false
+    "type": "mixGF",
+    "invoice": {
+        "value": 361.55,
+        "dueDate": "2026-03-20T06:00:00.000Z"
     },
-    "additionalPackages": [
-      {
-        "id": "SL50",
-        "name": "Paquete Amigo Sin Limite 50",
-        "totalData": 512000,
-        "usedData": 0,
-        "availableData": 512000,
-        "startDate": "2026-03-13T15:31:41.000Z",
-        "endDate": "2026-03-21T02:59:59.000Z",
-        "unlimited": false
-      }
-    ],
-    "promotionalPackages": [
-      {
-        "id": "700028982",
-        "name": "PROMO 50% DE DATOS 24 MIXTO MDP",
-        "totalData": 2097152,
-        "usedData": 0,
-        "availableData": 2097152,
+    "balance": {
+        "default": 20,
+        "dueDate": "2026-03-29T06:00:00.000Z",
+        "mix": 0,
+        "mixDueDate": "2026-03-29T06:00:00.000Z",
+        "gift": 0,
+        "data": 500,
+        "rollover": 0,
+        "cashback": 12.45
+    },
+    "plan": {
+        "id": "2000782",
+        "name": "TELCEL LIBRE CONTROLADO 1",
+        "price": 299,
+        "createdAt": "2025-05-21T08:10:39.000Z",
         "startDate": "2026-02-28T03:00:00.000Z",
         "endDate": "2026-03-28T02:59:59.000Z",
-        "unlimited": false
-      }
-    ],
-    "includedServices": [
-      "5G Offer",
-      "CashBack",
-      "welcome message routing (EMBIE)",
-      "CONVERTIBLE Datos Sin Frontera",
-      "UNCAR",
-      "Eliminar Reproduccion",
-      "VOLTE Offer",
-      "VOWIFI Offer"
-    ],
-    "borderlessServices": {
-      "sms": true,
-      "data": true,
-      "voice": true
+        "totalData": 4194304,
+        "availableData": 1106046,
+        "usedData": 3088258,
+        "freeNumbers": 0,
+        "unlimited": {
+            "facebook": true,
+            "x": true,
+            "snapchat": true,
+            "whatsapp": true,
+            "instagram": true,
+            "uber": true,
+            "calls": null,
+            "sms": null,
+            "messenger": null,
+            "data": false
+        },
+        "additionalPackages": [
+            {
+                "id": "SL50",
+                "name": "Paquete Amigo Sin Limite 50",
+                "totalData": 512000,
+                "usedData": 0,
+                "availableData": 512000,
+                "startDate": "2026-03-13T15:31:41.000Z",
+                "endDate": "2026-03-21T02:59:59.000Z",
+                "unlimited": false
+            }
+        ],
+        "promotionalPackages": [
+            {
+                "id": "700028982",
+                "name": "PROMO 50% DE DATOS 24 MIXTO MDP",
+                "totalData": 2097152,
+                "usedData": 0,
+                "availableData": 2097152,
+                "startDate": "2026-02-28T03:00:00.000Z",
+                "endDate": "2026-03-28T02:59:59.000Z",
+                "unlimited": false
+            }
+        ],
+        "includedServices": [
+            "5G Offer",
+            "CashBack",
+            "welcome message routing (EMBIE)",
+            "International Toll Voice",
+            "CONVERTIBLE Datos Sin Frontera",
+            "CONVERTIBLE Larga Distancia SF",
+            "CONVERTIBLE SMS RI Sin Frontera",
+            "CONVERTIBLE SMSIW Sin Frontera",
+            "CONVERTIBLE Voz RI Sin Frontera",
+            "PQT SIN FRONTERA MIXTO 2",
+            "UNCAR",
+            "Eliminar Reproduccion",
+            "PROMO 50% MAS DATOS",
+            "SUSCRIPCION CLARO VIDEO",
+            "VOLTE Offer",
+            "VOWIFI Offer"
+        ],
+        "borderlessServices": {
+            "sms": true,
+            "data": true,
+            "voice": true
+        }
     }
-  }
 }
